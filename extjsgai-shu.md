@@ -6,7 +6,7 @@
 
 * \` [http://xx.com/api/user/register](http://xx.com/api/user/register) \`
 
-\*\*请求方式：\*\*
+\*\*请求方式：\*\*维恩
 
 * POST 
 
